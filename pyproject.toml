@@ -1,0 +1,9 @@
+[project]
+name = "scheda-pesistica-carlo"
+version = "0.1.0"
+description = "App Streamlit per visualizzare una scheda pesistica da JSON"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "streamlit>=1.54.0",
+]
