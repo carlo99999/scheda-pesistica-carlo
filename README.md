@@ -21,7 +21,7 @@ streamlit run main.py
 ## Cosa mostra l'app
 
 - Panoramica programma e contesto.
-- Workout del giorno selezionabile dalla sidebar.
+- Workout del giorno selezionabile in alto (nessuna sidebar).
 - Regole di progressione.
 - Micro-sessioni opzionali.
 
